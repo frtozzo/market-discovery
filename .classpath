@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="wekaPackageLibs/wekaPackageLibs/subLib/" kind="src" path="stdlib"/>
+	<classpathentry kind="src" path="stdlib/wekaPackageLibs/wekaPackageLibs/subLib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/AnDE.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/chiSquaredAttributeEval.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/classAssociationRules.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/GeneticMiner.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/hiddenNaiveBayes.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/LibSVM.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/metaCost.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/naiveBayesTree.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/pdm-timeseriesforecasting-ce-TRUNK-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/SMOTE.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/stackingC.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/XMeans.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/weka.jar"/>
+	<classpathentry kind="lib" path="stdlib/wekaPackageLibs/wekaPackageLibs/EvolutionarySearch.jar"/>
+	<classpathentry kind="lib" path="stdlib/mysql-connector-java-5.1.28.jar"/>
+	<classpathentry kind="lib" path="stdlib/mysql-connector-java.jar"/>
+	<classpathentry kind="lib" path="stdlib/snowball-20051019.jar"/>
+	<classpathentry kind="lib" path="stdlib/mysql.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

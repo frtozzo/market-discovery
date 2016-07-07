@@ -1,0 +1,7 @@
+idf=false
+tf=false
+lowercase=true
+stopwords=resinput/stopwords
+delimiters=.,;:'" ()?!+-=0123456789&<>_{}
+wordsTokeep=2000
+maxNGramSize = 3
